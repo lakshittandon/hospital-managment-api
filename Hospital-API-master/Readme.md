@@ -1,5 +1,5 @@
-# Hospital-API
-In a time where a major pandemic has covered all the world we need a system which can track patients data and generate reports for them. This is a very basic API which exactly do this. 
+# Hospital Managment api
+In the past few years we faced a major pandemic so there arose a need for a system which can track patients data and generate reports for them. This is a very basic API which exactly do this. 
 
 ## Basic Features
 1. Register Doctor with username, password and name.
@@ -104,6 +104,6 @@ This code follows MVC pattern and hence everything is differentiated and well ma
 `/config` - contains config files for mongoose, passport or any other configs such as middlewares. <br>
 `/test` - contains files to test the code. <br>
 
-Feel free to use and contribute! :)
+
 
     
