@@ -1,5 +1,5 @@
 # Hospital Managment api
-In the past few years we faced a major pandemic so there arose a need for a system which can track patients data and generate reports for them. This is a very basic API which exactly do this. 
+In the past few years we faced a major pandemic so there arose a need for a system which can track patients data and generate reports for them. This is a API which exactly do this with testing. 
 
 ## Basic Features
 1. Register Doctor with username, password and name.
