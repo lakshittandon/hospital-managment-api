@@ -15,7 +15,7 @@
     "authentication",
     "jwt"
   ],
-  "author": "arnavdesk",
+  "author": "lakshit",
   "license": "ISC",
   "dependencies": {
     "config": "^3.3.1",
